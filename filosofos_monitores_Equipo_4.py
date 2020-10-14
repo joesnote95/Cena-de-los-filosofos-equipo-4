@@ -97,9 +97,6 @@ def main():
 
     for i in range(n):
         filosofos[i].start()        #Se inicia el proceso con cada uno de los filósofos
-    
-    msvcrt.getch()
-
 
 
 if __name__ == "__main__":
